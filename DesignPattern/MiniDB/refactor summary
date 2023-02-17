@@ -1,0 +1,13 @@
+
+Code smells:
+	1.Duplicate code
+		RegistryFile: 126 and Solution: Common method
+		DatabaseFile: 148 and Solution: Common method
+	2.Lazy class
+		error: solution:inline class
+	3.Refused bequest problem
+    		XMLFile: solution: push-down method
+    		
+    		 		
+  used Pattern:
+  	Singleton pattern( constant) 
